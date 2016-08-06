@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <dimen name="cardview_margin">15dp</dimen>
+    <dimen name="padding_iv_bottom_nav">40dp</dimen>
+    <dimen name="random_saying_text_size">30sp</dimen>
+    <dimen name="random_saying_author_text_size">15sp</dimen>
+    <dimen name="random_saying_cat_text_size">12sp</dimen>
+    <dimen name="saying_card_text_size">20sp</dimen>
+    <integer name="recycler_columns">1</integer>
+</resources>
